@@ -1,8 +1,8 @@
 {
-  "name": "chát gờ bờ tờ",
-  "description": "chát gờ bờ tờ",
+  "name": "Gờ Bờ Tờ For Edunext",
+  "description": "Gờ Bờ Tờ For Edunext from HOVILO \nby Khengyun",
   "default_locale": "en",
-  "version": "1.0.0",
+  "version": "1.16.3",
   "manifest_version": 3,
   "icons": {
     "16": "logo.png",
@@ -18,7 +18,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://fu.edunext.vn/*"
+        "https://fu.edunext.vn/*/session/activity?sessionid=*&activityId=*"
       ],
       "js": ["content-script.js"],
       "css": ["content-script.css"]
