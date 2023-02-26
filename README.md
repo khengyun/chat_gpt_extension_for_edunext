@@ -31,13 +31,9 @@ Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 
 ### How to make it work in Brave
 
-![Screenshot](screenshots/brave.png?raw=true)
-
 Disable "Prevent sites from fingerprinting me based on my language preferences" in `brave://settings/shields`
 
 ### How to make it work in Opera
-
-![Screenshot](screenshots/opera.png?raw=true)
 
 Enable "Allow access to search page results" in the extension management page
 
