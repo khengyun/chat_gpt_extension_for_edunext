@@ -1,15 +1,10 @@
 # EduGpt
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=khengyun.EduGpt&left_color=green&right_color=red)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=khengyun.chat_gpt_extension_for_edunext&left_color=green&right_color=red)
 
+## Supported Search Edunext
 
-A browser extension to display ChatGPT response alongside Google (and other search engines) results
-
-[Install from Chrome Web Store](https://chatgpt4google.com/chrome?utm_source=github)
-
-[Install from Mozilla Add-on Store](https://chatgpt4google.com/firefox?utm_source=github)
-
-[Changelog](https://chatgpt-for-google.canny.io/changelog)
+https://user-images.githubusercontent.com/78076796/216476696-8cda4c20-7190-43c1-a633-b6cd1350a0ca.mp4
 
 ## Supported Search Engines
 
@@ -47,17 +42,4 @@ Disable "Prevent sites from fingerprinting me based on my language preferences" 
 Enable "Allow access to search page results" in the extension management page
 
 
-
-
-
-
-# chat_gpt_extension_for_edunext
-
-
-https://user-images.githubusercontent.com/78076796/216476696-8cda4c20-7190-43c1-a633-b6cd1350a0ca.mp4
-
-# Cách cài đặt 
-
-
-https://user-images.githubusercontent.com/78076796/216479392-ddbd6615-604e-45e5-b8f3-f785241942cf.mp4
 
